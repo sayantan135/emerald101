@@ -1,0 +1,10 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "sourceMap": false,
+    "removeComments": true,
+    "allowDeclarations": true,
+    "allowDefinitionFiles": true
+  },
+  "include": ["src/**/*"]
+}
